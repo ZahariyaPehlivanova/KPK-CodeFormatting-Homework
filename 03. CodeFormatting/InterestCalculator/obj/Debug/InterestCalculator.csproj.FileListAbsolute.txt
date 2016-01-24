@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\CodeFormatting\InterestCalculator\obj\Debug\InterestCalculator.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\CodeFormatting\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+D:\SoftUni\VisualStudio\КПК\Homeworks\CodeFormatting\InterestCalculator\obj\Debug\InterestCalculator.exe
+D:\SoftUni\VisualStudio\КПК\Homeworks\CodeFormatting\InterestCalculator\obj\Debug\InterestCalculator.pdb
